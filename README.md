@@ -85,15 +85,19 @@ Ejemplos: `1` o `1,2,3`
 
 ![reactions](https://i.ibb.co/WHZnD4Z/svenndiscord.png)
 
-## 🤝 Contributing
+## 🤝 AYUDAME 
 
-1. [Fork the repository](https://github.com/eritislami/evobot/fork)
-2. Clone your fork: `git clone https://github.com/your-username/evobot.git`
-3. Create your feature branch: `git checkout -b my-new-feature`
-4. Commit your changes: `git commit -am 'Add some feature'`
-5. Push to the branch: `git push origin my-new-feature`
-6. Submit a pull request
+AYUDAME A SEGUIR TRABAJANDO [Donar](https://www.paypal.me/jaimetarazona).
+
+### PAYPAL
+
+[https://www.paypal.me/jaimetarazona](https://www.paypal.me/jaimetarazona). 
+
+
+### GRACIAS
+
+JaimeTR hecho con ❤️
 
 ## 📝 Credits
 
-[@iCrawl](https://github.com/iCrawl) For the queue system used in this application which was adapted from [@iCrawl/discord-music-bot](https://github.com/iCrawl/discord-music-bot)
+Comands autor[@iCrawl](https://github.com/iCrawl) Adaptado de [@iCrawl/discord-music-bot](https://github.com/iCrawl/discord-music-bot)
