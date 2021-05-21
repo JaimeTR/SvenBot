@@ -44,48 +44,46 @@ Copiar o cambiar el nombre `config.json.ejemplo` de `config.json` y rellene el s
 
 `-splay imok 24/7 live radio `
 
-* 🎶 Play music from Soundcloud via url
+* 🎶 Reproducir música de Soundcloud a través de URL
 
-`/play https://soundcloud.com/blackhorsebrigade/pearl-jam-alive`
+`-splay https://soundcloud.com/blackhorsebrigade/pearl-jam-alive`
 
-* 🔎 Search and select music to play
+* 🔎 Busca y selecciona música para reproducir
 
-`/search Pearl Jam`
+`-ssearch morat`
 
-Reply with song number or numbers seperated by comma that you wish to play
+Responda con el número de la canción o los números separados por comas que desea reproducir
 
-Examples: `1` or `1,2,3`
+Ejemplos: `1` o `1,2,3`
 
-* 📃 Play youtube playlists via url
+* 📃 Reproducir listas de reproducción de youtube a través de URL
 
-`/playlist https://www.youtube.com/watch?v=YlUKcNNmywk&list=PL5RNCwK3GIO13SR_o57bGJCEmqFAwq82c`
+`-splaylist hhttps://www.youtube.com/watch?v=0RzQrxPYnBA&list=PLDd92EK9sTlD9tVLrruGmZ8DuUYAfiS7e`
 
-* 🔎 Play youtube playlists via search query
+* 🔎 Reproducir listas de reproducción de youtube mediante consulta de búsqueda
 
-`/playlist linkin park meteora`
-* Now Playing (/np)
-* Queue system (/queue, /q)
-* Loop / Repeat (/loop)
-* Shuffle (/shuffle)
-* Volume control (/volume, /v)
-* Lyrics (/lyrics, /ly)
-* Pause (/pause)
-* Resume (/resume, /r)
-* Skip (/skip, /s)
-* Skip to song # in queue (/skipto, /st)
-* Move a song in the queue (/move, /mv)
-* Remove song # from queue (/remove, /rm)
-* Play an mp3 clip (/clip song.mp3) (put the file in sounds folder)
-* List all clips (/clips)
-* Show api ping (/ping)
-* Show bot uptime (/uptime)
-* Toggle pruning of bot messages (/pruning)
-* Localization in 6 languages
-* Help (/help, /h)
-* Command Handler from [discordjs.guide](https://discordjs.guide/)
-* Media Controls via Reactions
+`-splaylist morat`
+* Reproduciendo ahora (-snp)
+* Sistema de cola (-squeue, -sq)
+* Bucle / Repetir (-sloop)
+* Aleatorio (-sshuffle)
+* Control de volumen (-svolume, -sv)
+* Letras (-slyrics, -sly)
+* Pausa (-spause)
+* Reanudar (-sresume, -sr)
+* Saltar (-sskip, -ss)
+* Saltar al número de canción en la cola (-sskipto, -sst)
+* Mover una canción en la cola (-smove, /mv)
+* Eliminar número de canción de la cola (-sremove, -srm)
+* Reproducir un clip mp3 (-sclip song.mp3) (poner el archivo en la carpeta de sonidos)
+* Lista de todos los clips (-sclips)
+* Mostrar api ping (-sping)
+* Mostrar tiempo de actividad del bot (-suptime)
+* Alternar la eliminación de mensajes de bot (-spruning)
+* Ayuda (-shelp, -sh)
+* Controles de medios a través de reacciones
 
-![reactions](https://i.imgur.com/9S7Omf9.png)
+![reactions](https://i.ibb.co/WHZnD4Z/svenndiscord.png)
 
 ## 🤝 Contributing
 
