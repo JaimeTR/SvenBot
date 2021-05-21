@@ -2,17 +2,17 @@
 
 ![logo](https://i.ibb.co/dKyFy13/SVENNBOT-FONDO.png)
 
-# 🤖 EvoBot (Discord Music Bot)
+# 🤖 SvenBot (Tu compañero de Discord)
 > SvennBot es un Discord Music Bot construido con discord.js y usa Command Handler de [discordjs.guide](https://discordjs.guide)
 
-## Requirements
+## Requisitos
 
 1. Discord Bot Token **[Guide](https://discordjs.guide/preparations/setting-up-a-bot-application.html#creating-your-bot)**
 2. YouTube Data API v3 Key **[Guide](https://developers.google.com/youtube/v3/getting-started)**  
 2.1 **(Optional)** Soundcloud Client ID **[Guide](https://github.com/zackradisic/node-soundcloud-downloader#client-id)**
 3. Node.js v14.0.0 version mas reciente
 
-## ⚙️ Configuration
+## ⚙️ Configuracion
 
 Copiar o cambiar el nombre `config.json.ejemplo` de `config.json` y rellene el siguiente valores:
 
@@ -32,19 +32,7 @@ Copiar o cambiar el nombre `config.json.ejemplo` de `config.json` y rellene el s
 }
 ```
 
-Currently available locales are:
-- English (en)
-- German (de)
-- French (fr)
-- Spanish (es)
-- Turkish (tr)
-- Korean (ko)
-- Brazilian Portuguese (pt_br)
-- Simplified Chinese (zh_cn)
-- Traditional Chinese (zh_tw)
-- Check [Contributing](#-contributing) if you wish to help add more languages!
-
-## 📝 Features & Commands
+## 📝  Funciones y comandos
 
 > Note: The default prefix is '/'
 
