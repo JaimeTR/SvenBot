@@ -1,4 +1,4 @@
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/apps/svennbot=https://github.com/JaimeTR/svennbot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/apps/svennbot)
 
 ![logo](https://i.ibb.co/4M7kgLX/bg.jpg)
 
