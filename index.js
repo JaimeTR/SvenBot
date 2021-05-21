@@ -8,6 +8,17 @@ const { TOKEN, PREFIX, LOCALE } = require("./util/EvobotUtil");
 const path = require("path");
 const i18n = require("i18n");
 
+//codigo para monitoreo 24/7 activo bot
+const express = require('express')
+const app = express()
+app.get('/', function(req, res) {
+    res.send('BOT INICIADO Y LISTO PARA MONITOREO 24/7')
+})
+let port = process.env.PORT || 3000;
+app.listen(port)
+require('dotenv').config()
+    //////////////////////////////////////////
+
 const client = new Client({
     disableMentions: "everyone",
     restTimeOffset: 0
