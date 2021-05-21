@@ -1,6 +1,6 @@
-![Deploy](https://i.ibb.co/KGjBGNG/7490f2d866f103133ed339be753b4fea.jpg)
+![Deploy](https://www.herokucdn.com/deploy/button.svg)
 
-![logo](https://i.ibb.co/8MRrL9W/Captura-de-pantalla-4-removebg-preview-2.png)
+![logo](https://i.ibb.co/dKyFy13/SVENNBOT-FONDO.png)
 
 # 🤖 EvoBot (Discord Music Bot)
 > EvoBot is a Discord Music Bot built with discord.js & uses Command Handler from [discordjs.guide](https://discordjs.guide)
