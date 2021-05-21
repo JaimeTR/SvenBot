@@ -34,15 +34,15 @@ Copiar o cambiar el nombre `config.json.ejemplo` de `config.json` y rellene el s
 
 ## 📝  Funciones y comandos
 
-> Note: The default prefix is '/'
+> Nota: por defaul prefix es '-s'
 
-* 🎶 Play music from YouTube via url
+* 🎶 Reproducir música de YouTube a través de URL
 
-`/play https://www.youtube.com/watch?v=GLvohMXgcBo`
+`-splay https://www.youtube.com/watch?v=PFccLdZi_Q8`
 
-* 🔎 Play music from YouTube via search query
+* 🔎 Reproducir música de YouTube a través de una consulta de búsqueda
 
-`/play under the bridge red hot chili peppers`
+`-splay imok 24/7 live radio `
 
 * 🎶 Play music from Soundcloud via url
 
