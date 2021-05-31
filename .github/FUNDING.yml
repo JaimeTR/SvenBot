@@ -1,5 +1,7 @@
 # These are supported funding model platforms
 
-github: # [JaimeTR, WebstrServices]
-patreon: # JaimeTR
+github: [JaimeTR, WebstrServices]
+patreon: JaimeTR
+tidelift: npm/octo-package
+custom: ["https://paypal.me/jaimetarazona", webstrservices.com]
 
