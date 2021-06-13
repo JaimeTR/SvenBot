@@ -61,7 +61,7 @@ i18n.configure({
  */
 client.on("ready", () => {
     console.log(`${client.user.username} ready!`);
-    client.user.setActivity(`imok 24/7 LIVE RADIO
+    client.user.setActivity(`ESCUCHANDO 24/7 LIVE RADIO
   ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
   COMANDOS: ⠀⠀${PREFIX}help ⠀Y ⠀${PREFIX}play `, { type: "LISTENING" });
 });
