@@ -34,7 +34,7 @@ const escapeRegex = (str) => str.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
 i18n.configure({
     locales: ["ar", "de", "en", "es", "fr", "it", "ko", "nl", "pl", "pt_br", "ru", "sv", "tr", "zh_cn", "zh_tw"],
     directory: path.join(__dirname, "locales"),
-    defaultLocale: "en",
+    defaultLocale: "es",
     objectNotation: true,
     register: global,
 
