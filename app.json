@@ -1,7 +1,7 @@
 {
-  "name": "SvennBot",
-  "description": "🤖 Discord Music Bot built with discord.js",
-  "repository": "https://github.com/JaimeTR/svennbot",
-  "logo": "https://i.ibb.co/dKyFy13/SVENNBOT-FONDO.png",
-  "keywords": ["discord", "discordjs", "music", "bot"]
+    "name": "SvenBot",
+    "description": "El mejor Bot de música 🤖",
+    "repository": "https://github.com/JaimeTR/SvenBot",
+    "logo": "https://i.ibb.co/dKyFy13/SVENNBOT-FONDO.png",
+    "keywords": ["discord", "discordjs", "music", "bot"]
 }
