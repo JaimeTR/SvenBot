@@ -16,7 +16,7 @@
 
 Copiar o cambiar el nombre `config.json.ejemplo` de `config.json` y rellene el siguiente valores:
 
-⚠️ **Note: Never commit or share your token or api keys publicly** ⚠️
+⚠️ **Nota: Nunca confirme ni comparta públicamente sus claves de token o API** ⚠️
 
 ```json
 {
