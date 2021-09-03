@@ -63,7 +63,7 @@ client.on("ready", () => {
     console.log(`${client.user.username} ready!`);
     client.user.setActivity(`EL BOT DE JAIMETR
   ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-  COMANDOS: ⠀⠀${PREFIX}help ⠀Y ⠀${PREFIX}play `, { type: "LISTENING" });
+COMANDOS: ⠀⠀${PREFIX}help ⠀Y ⠀${PREFIX}play `, { type: "LISTENING" });
 });
 client.on("warn", (info) => console.log(info));
 client.on("error", console.error);
