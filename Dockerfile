@@ -1,4 +1,4 @@
-FROM node:12.19-slim
+FROM node:12.22-slim
 
 ENV USER=svenbot
 
