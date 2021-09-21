@@ -1,6 +1,6 @@
 ![Deploy](https://www.herokucdn.com/deploy/button.svg)
 
-![logo](https://i.ibb.co/dKyFy13/SVENNBOT-FONDO.png)
+![logo](https://i.ibb.co/824XVdb/unknown.png)
 
 # 🤖 SvenBot (Tu compañero de Discord)
 > SvennBot es un Discord Music Bot construido con discord.js y usa Command Handler de [discordjs.guide](https://discordjs.guide)
