@@ -62,7 +62,7 @@ i18n.configure({
  */
 client.on("ready", () => {
     console.log(`${client.user.username} ready!`);
-    client.user.setActivity(`EL BOT DE JAIMETR
+    client.user.setActivity(`el bot de JaimeTR
   ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 COMANDOS: ⠀⠀${PREFIX}help ⠀Y ⠀${PREFIX}play `, { type: "LISTENING" });
 });
