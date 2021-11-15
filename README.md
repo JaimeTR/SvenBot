@@ -24,7 +24,7 @@ Copiar o cambiar el nombre `config.json.ejemplo` de `config.json` y rellene el s
     "YOUTUBE_API_KEY": "aqui pegar la clave de API",
     "SOUNDCLOUD_CLIENT_ID": "",
     "MAX_PLAYLIST_SIZE": 20,
-    "PREFIX": "-s",
+    "PREFIX": "!",
     "PRUNING": false,
     "LOCALE": "en",
     "STAY_TIME": 30,
