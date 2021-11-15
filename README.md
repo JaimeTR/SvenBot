@@ -26,7 +26,7 @@ Copiar o cambiar el nombre `config.json.ejemplo` de `config.json` y rellene el s
     "MAX_PLAYLIST_SIZE": 20,
     "PREFIX": "!",
     "PRUNING": false,
-    "LOCALE": "en",
+    "LOCALE": "es",
     "STAY_TIME": 30,
     "DEFAULT_VOLUME": 100
 }
